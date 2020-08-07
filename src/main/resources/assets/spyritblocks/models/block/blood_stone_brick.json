@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "spyritblocks:block/blood_stone_brick"
+  }
+}
