@@ -1,0 +1,8 @@
+
+{
+  "variants": {
+    "type=bottom": { "model": "spyritblocks:block/blood_stone_brick_slab" },
+    "type=top": { "model": "spyritblocks:block/blood_stone_brick_slab_top" },
+    "type=double": { "model": "spyritblocks:block/blood_stone_brick" }
+  }
+}
