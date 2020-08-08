@@ -1,0 +1,8 @@
+
+{
+  "variants": {
+    "type=bottom": { "model": "spyritblocks:block/black_quartz_slab" },
+    "type=top": { "model": "spyritblocks:block/black_quartz_slab_top" },
+    "type=double": { "model": "spyritblocks:block/black_quartz" }
+  }
+}

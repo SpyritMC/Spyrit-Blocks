@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "spyritblocks:block/black_quartz",
+    "top": "spyritblocks:block/black_quartz",
+    "side": "spyritblocks:block/black_quartz"
+  }
+}
