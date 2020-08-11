@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "spyritblocks:lime_stone"
+    }
+  },
+  "result": {
+    "item": "spyritblocks:lime_smooth_stone",
+    "count": 1
+  }
+}

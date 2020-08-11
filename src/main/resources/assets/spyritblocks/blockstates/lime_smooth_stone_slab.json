@@ -1,0 +1,8 @@
+
+{
+  "variants": {
+    "type=bottom": { "model": "spyritblocks:block/lime_smooth_stone_slab" },
+    "type=top": { "model": "spyritblocks:block/lime_smooth_stone_slab_top" },
+    "type=double": { "model": "spyritblocks:block/lime_smooth_stone" }
+  }
+}

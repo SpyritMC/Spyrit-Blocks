@@ -1,15 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
+    "#  ",
+    "## ",
     "###"
   ],
   "key": {
     "#": {
-      "item": "spyritblocks:blood_stone_brick"
+      "item": "spyritblocks:lime_smooth_stone"
     }
   },
   "result": {
-    "item": "spyritblocks:blood_stone_brick_slab",
+    "item": "spyritblocks:lime_smooth_stone_stairs",
     "count": 6
   }
 }

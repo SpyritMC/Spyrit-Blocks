@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "spyritblocks:block/lime_stone",
+    "top": "spyritblocks:block/lime_stone",
+    "side": "spyritblocks:block/lime_stone"
+  }
+}

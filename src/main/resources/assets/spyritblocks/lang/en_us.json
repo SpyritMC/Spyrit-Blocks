@@ -3,5 +3,17 @@
   "block.spyritblocks.blood_stone_brick_slab": "Blood Stone Brick Slab",
   "block.spyritblocks.black_quartz": "Black Quartz",
   "block.spyritblocks.black_quartz_slab": "Black Quartz Slab",
-  "block.spyritblocks.black_quartz_stairs": "Black Quartz Stair"
+  "block.spyritblocks.black_quartz_stairs": "Black Quartz Stair",
+  "block.spyritblocks.ruby_block": "Ruby Block",
+  "item.spyritblocks.ruby": "Ruby",
+  "block.spyritblocks.ruby_ore": "Ruby Ore",
+  "block.spyritblocks.lime_stone": "Lime Stone",
+  "block.spyritblocks.lime_smooth_stone": "Lime Smooth Stone",
+  "block.spyritblocks.lime_smooth_stone_slab": "Lime Smooth Stone Slab",
+  "block.spyritblocks.lime_smooth_stone_stairs": "Lime Smooth Stone Stair",
+  "block.spyritblocks.lime_stone_slab": "Lime Stone Slab",
+  "block.spyritblocks.lime_stone_stairs": "Lime Stone Stair",
+  "block.spyritblocks.amethyst_ore": "Amethyst Ore",
+  "item.spyritblocks.amethyst_shard": "Amethyst Shard"
 }
+

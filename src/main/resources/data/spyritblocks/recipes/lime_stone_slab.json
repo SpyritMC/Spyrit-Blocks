@@ -5,11 +5,11 @@
   ],
   "key": {
     "#": {
-      "item": "spyritblocks:blood_stone_brick"
+      "item": "spyritblocks:lime_stone"
     }
   },
   "result": {
-    "item": "spyritblocks:blood_stone_brick_slab",
+    "item": "spyritblocks:lime_stone_slab",
     "count": 6
   }
 }

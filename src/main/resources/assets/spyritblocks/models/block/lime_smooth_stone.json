@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "spyritblocks:block/lime_smooth_stone"
+  }
+}
