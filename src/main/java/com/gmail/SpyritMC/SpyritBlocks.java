@@ -57,6 +57,7 @@ public class SpyritBlocks implements ModInitializer {
 		new RubyBlock();
 		new LimeStone();
 		new LimeSmoothStone();
+		final Item AMETHYST_SHARD = new Item(new Item.Settings().group(ItemGroup.MISC));
 		Registry.register(Registry.ITEM, new Identifier("spyritblocks", "ruby"), RUBY);
 		Registry.register(Registry.ITEM, new Identifier("spyritblocks", "amethyst_shard"), AMETHYST_SHARD);
 		//Loop over existing biomes
