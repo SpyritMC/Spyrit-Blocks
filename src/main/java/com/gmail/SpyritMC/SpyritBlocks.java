@@ -48,6 +48,20 @@ public class SpyritBlocks implements ModInitializer {
 									5, //Min y level
 									40 //Max y level
 							))));
+			biome.addFeature(
+					GenerationStep.Feature.UNDERGROUND_ORES,
+					Feature.ORE.configure(
+							new OreFeatureConfig(
+									OreFeatureConfig.Target.NATURAL_STONE,
+									AmethystOre.AMETHYST_ORE.getDefaultState(),
+									2 //Ore vein size
+							)).createDecoratedFeature(
+							Decorator.COUNT_RANGE.configure(new RangeDecoratorConfig(
+									6, //Number of veins per chunk
+									0, //Bottom Offset
+									5, //Min y level
+									20 //Max y level
+							))));
 		}
 	}
 	@Override
@@ -57,6 +71,7 @@ public class SpyritBlocks implements ModInitializer {
 		new RubyBlock();
 		new LimeStone();
 		new LimeSmoothStone();
+		new AmethystOre();
 		final Item AMETHYST_SHARD = new Item(new Item.Settings().group(ItemGroup.MISC));
 		Registry.register(Registry.ITEM, new Identifier("spyritblocks", "ruby"), RUBY);
 		Registry.register(Registry.ITEM, new Identifier("spyritblocks", "amethyst_shard"), AMETHYST_SHARD);
